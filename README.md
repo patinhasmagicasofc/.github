@@ -94,7 +94,16 @@ Licença **MIT**. Consulte `LICENSE`.
 
   Feito com ❤️ pela equipe Alquimia.
 
+
+
+---
+
+### 👨‍💻 Desenvolvedores  
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/167752761?v=4" width=115><br><sub>Ana Paula</sub>](https://github.com/Anapaulacampostec) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/234293013?s=200&v=4" width=115><br><sub>Clayton </sub>](https://github.com/clayton-oly) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/57300906?v=4" width=115><br><sub> Jonathan Santos </sub>](https://github.com/jtn-san) |
+| :---: | :---: | :---: |
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/234293013?s=200&v=4" width=115><br><sub> Julia </sub>](https://github.com/juliagasantos) | [<img loading="lazy" src="https://raw.githubusercontent.com/patinhasmagicasofc/PatinhasMagicasFront/refs/heads/main/img/logo/logo3.png" width=115><br><sub> PATINHAS MÁGICAS </sub>](https://github.com/patinhasmagicasofc/PatinhasMagicasFront/tree/main) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/234293013?s=200&v=4" width=115><br><sub> Luan </sub>](https://github.com/lzinn0203) |
+| :---: | :---: | :---: |
+
 </div>
-
-
-
